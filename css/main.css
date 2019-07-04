@@ -404,6 +404,12 @@ main#home h1 {
     margin: 0 0.3rem;
     font-size: 24px;
   }
+
+  main {
+  padding: auto 4rem;
+  margin: auto;
+}
+  
 }
 
 /* small */
