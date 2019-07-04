@@ -406,7 +406,7 @@ main#home h1 {
   }
 
   main {
-  padding: auto 4rem;
+  padding: 4rem auto;
   margin: auto;
 }
   
