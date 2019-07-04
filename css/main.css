@@ -344,9 +344,7 @@ main#home h1 {
     align-items: center;
     text-align: center;
   }
-  main#home h1 {
-  margin-left: 1rem;
-  }
+ 
   .lg-heading {
     line-height: 1;
     margin-bottom: 1rem;
