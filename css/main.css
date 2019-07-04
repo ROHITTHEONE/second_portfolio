@@ -340,7 +340,7 @@ main#home h1 {
 
 /* medium */
 @media only screen and (max-width: 768px) {
-  .main {
+  main {
     align-items: center;
     text-align: center;
   }
@@ -403,19 +403,6 @@ main#home h1 {
   .icons .fab {
     margin: 0 0.3rem;
     font-size: 24px;
-  }
-
-  main {
-  padding: 0;
-  margin: auto;
-  padding-top: 4rem;
-  text-align: center;
-  }
-
-  h1.lg-heading{
-  margin: auto
-  padding-left: 0.5rem;
-  text-align: center;
   }
   
 }
