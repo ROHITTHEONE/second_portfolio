@@ -341,7 +341,6 @@ main#home h1 {
 /* medium */
 @media only screen and (max-width: 768px) {
   main {
-    padding-left: auto;
     align-items: center;
     text-align: center;
   }
