@@ -422,11 +422,12 @@ main#home h1 {
   main {
     padding-left: 0;
     align-items: center;
-    text-align: center;
+    text-align: Left;
   }
 
   main#home h1 {
   margin-left: 0px;
+  text-align: left
   }
  
   .lg-heading {
