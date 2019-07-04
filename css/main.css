@@ -418,4 +418,20 @@ main#home h1 {
   .projects {
     grid-template-columns: 1fr;
   }
+
+  main {
+    padding-left: 0;
+    align-items: center;
+    text-align: center;
+  }
+
+  main#home h1 {
+  margin-left: 0px;
+  }
+ 
+  .lg-heading {
+    line-height: 1;
+    margin-bottom: 1rem;
+  }
+  
 }
