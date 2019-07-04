@@ -344,6 +344,10 @@ main#home h1 {
     align-items: center;
     text-align: center;
   }
+
+  main#home h1 {
+  margin-left: 0px;
+  }
  
   .lg-heading {
     line-height: 1;
