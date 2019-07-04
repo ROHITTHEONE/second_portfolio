@@ -406,7 +406,7 @@ main#home h1 {
   }
 
   main {
-  padding: auto;
+  padding: 0;
   margin: auto;
   padding-top: 4rem;
   text-align: center;
@@ -414,6 +414,7 @@ main#home h1 {
 
   h1.lg-heading{
   margin: auto
+  padding-left: 0.5rem;
   text-align: center;
   }
   
