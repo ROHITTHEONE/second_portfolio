@@ -406,9 +406,15 @@ main#home h1 {
   }
 
   main {
-  padding: 4rem 0;
+  padding: 0;
   margin: auto;
-}
+  padding-top: 4rem;
+  }
+
+  h1.lg-heading{
+  padding-left: 0;
+  margin-left:0;
+  }
   
 }
 
