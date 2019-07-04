@@ -406,15 +406,14 @@ main#home h1 {
   }
 
   main {
-  padding: 0;
+  padding: auto;
   margin: auto;
   padding-top: 4rem;
   text-align: center;
   }
 
   h1.lg-heading{
-  padding-left: 0;
-  margin-left:0;
+  margin: auto
   text-align: center;
   }
   
