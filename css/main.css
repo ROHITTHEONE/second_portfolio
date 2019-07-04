@@ -409,11 +409,13 @@ main#home h1 {
   padding: 0;
   margin: auto;
   padding-top: 4rem;
+  text-align: center;
   }
 
   h1.lg-heading{
   padding-left: 0;
   margin-left:0;
+  text-align: center;
   }
   
 }
